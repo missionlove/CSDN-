@@ -1,0 +1,1308 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01DA4477.203DF7E0"
+
+���ĵ�Ϊ�������ļ���ҳ����Ҳ��Ϊ��Web �������ļ����������������Ϣ�����������������༭����֧�֡�Web �������ļ���������֧�֡�Web ����������������� Windows? Internet Explorer?��
+
+------=_NextPart_01DA4477.203DF7E0
+Content-Location: file:///C:/D81F5143/file1075.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DOneNote.File>
+<meta name=3DGenerator content=3D"Microsoft OneNote 15">
+<link id=3DMain-File rel=3DMain-File href=3Dfile1075.htm>
+<link rel=3DFile-List href=3D"file1075.files/filelist.xml">
+</head>
+
+<body lang=3Dzh-CN style=3D'font-family:Calibri;font-size:10.5pt;color:blac=
+k'>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:13.1284in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:2.2187in'>
+
+<p style=3D'margin:0in;font-family:SimSun;font-size:20.0pt'>使用说明文=
+档</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:1.5805=
+in'>
+
+<p style=3D'margin:0in;font-size:9.0pt;color:gray'><span style=3D'font-fami=
+ly:Calibri'>2022</span><span
+style=3D'font-family:SimSun'>年</span><span style=3D'font-family:Calibri'>=
+12</span><span
+style=3D'font-family:SimSun'>月</span><span style=3D'font-family:Calibri'>=
+23</span><span
+style=3D'font-family:SimSun'>日</span></p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:9.0pt;color:gray'>9:34=
+</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.6659in;margin-left:4.5in;width:4.52=
+43in'>
+
+<p style=3D'margin:0in;font-family:SimSun;font-size:22.0pt'><span
+style=3D'font-weight:bold' lang=3Den-US>Klarf</span><span style=3D'font-wei=
+ght:bold'
+lang=3Dzh-CN>标准格式解析</span><span style=3D'font-weight:bold' lang=
+=3Den-US>/</span><span
+style=3D'font-weight:bold' lang=3Dzh-CN>生成插件</span></p>
+
+<p style=3D'margin:0in;margin-left:1.125in;font-family:SimSun;font-size:22.=
+0pt'><span
+style=3D'font-weight:bold'>使用文档</span></p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.4451in;margin-left:.75in;width:12.3=
+784in'>
+
+<p style=3D'margin:0in;font-family:SimSun;font-size:16.0pt'><span
+style=3D'font-weight:bold'>一、插件的编译</span></p>
+
+<p style=3D'margin:0in;font-family:SimSun;font-size:16.0pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in'><span style=3D'font-family:SimSu=
+n;
+font-size:12.0pt' lang=3Den-US><span style=3D'mso-spacerun:yes'>   
+</span>KlarfUtilLibrary </span><span style=3D'font-family:SimSun;font-size:=
+12.0pt'
+lang=3Dzh-CN>项目使用</span><span style=3D'font-family:SimSun;font-size=
+:12.0pt'
+lang=3Den-US>Qt Creator</span><span style=3D'font-family:SimSun;font-size:1=
+2.0pt'
+lang=3Dzh-CN>或者</span><span style=3D'font-family:SimSun;font-size:12.0p=
+t'
+lang=3Den-US> VS-Qt</span><span style=3D'font-family:SimSun;font-size:12.0p=
+t'
+lang=3Dzh-CN>环境均可直接编译。通过配置不同的编译工具�=
+�，可对应编译成</span><span style=3D'font-family:SimSun;
+font-size:12.0pt' lang=3Den-US>win32</span><span style=3D'font-family:SimSu=
+n;
+font-size:12.0pt' lang=3Dzh-CN>或者</span><span style=3D'font-family:SimS=
+un;
+font-size:12.0pt' lang=3Den-US>x64</span><span style=3D'font-family:SimSun;
+font-size:12.0pt' lang=3Dzh-CN>的动态库</span><span style=3D'font-famil=
+y:SimSun;
+font-size:12.0pt' lang=3Den-US> </span><span style=3D'font-family:Calibri;
+font-size:10.5pt' lang=3Dzh-CN>JcKlarfUtil.dll</span><span style=3D'font-fa=
+mily:
+Calibri;font-size:10.5pt' lang=3Den-US> </span><span style=3D'font-family:S=
+imSun;
+font-size:10.5pt' lang=3Dzh-CN>。</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:SimSun;font-size:16.0pt'><span
+style=3D'font-weight:bold'>二、动态库的使用</span></p>
+
+<p style=3D'margin:0in;font-family:SimSun;font-size:10.5pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in'><span style=3D'font-family:SimSu=
+n;
+font-size:10.5pt' lang=3Dzh-CN>在宿主项目中链接</span><span style=
+=3D'font-family:Calibri;
+font-size:10.5pt' lang=3Den-US>/</span><span style=3D'font-family:SimSun;
+font-size:10.5pt' lang=3Dzh-CN>引入</span><span style=3D'font-family:SimS=
+un;
+font-size:12.0pt' lang=3Den-US> </span><span style=3D'font-family:Calibri;
+font-size:10.5pt' lang=3Dzh-CN>JcKlarfUtil.dll</span><span style=3D'font-fa=
+mily:
+Calibri;font-size:10.5pt' lang=3Den-US> </span><span style=3D'font-family:S=
+imSun;
+font-size:10.5pt' lang=3Dzh-CN>库文件，并包含对应的头文件，�=
+�文件列表如下：</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in'><img src=3D"file1075.files/image=
+001.png"
+width=3D296 height=3D442
+alt=3D"计算机生成了可选文字:&#10;丫卜Headers&#10;cIasslookupli,=
+t．卜&#10;customwaferlist．卜&#10;defedlist．卜&#10;Fie!d．卜&#10;F=
+ieldTemplate.h&#10;石lerecord.h&#10;fullwafer,ummaryli,t.h&#10;imageli、t=
+．卜&#10;jckla汗utillibrary．卜&#10;JcKla汗UtiILibrary--global.h&#10;=
+JList.h&#10;Kla汗Line．卜&#10;Klar打eXtBlock.h&#10;lotrecord.h&#10;Reco=
+rd．卜&#10;,ampletestplanlist.h&#10;众ringUtil.h&#10;SummaryRecord.h&#10=
+;TestRecord.h&#10;WaferRecord.h"></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:12.0=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:SimSun;font-size:12.0pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:SimSun;font-size:16.0pt'><span
+style=3D'font-weight:bold'>三、应用示例</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:12.0=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;QCoreApplication&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&quot;jcklarfutillibrary.h&quot;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&quot;FieldTemplate.h&quot;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&quot;lotrecord.h&quot;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;QList&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;QVariant&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;QString&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;QDebug&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;string&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;QMetaType&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;iostream&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;typeinfo&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#include</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:green'>&lt;QDataStream&gt;</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:olive'>struct</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:purple'>AA</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>{</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>int</span><span style=3D'color:#979797'> </span><span
+style=3D'color:maroon'>i</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>float</span><span style=3D'color:#979797'> </span><sp=
+an
+style=3D'color:maroon'>f</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>operator</span><span style=3D'color:#979797'> </span>=
+<span
+style=3D'color:purple'>QVariant</span>()<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:olive'>const</span><span style=3D'color:#979797'> </span>{<s=
+pan
+style=3D'color:#979797'> </span><span style=3D'color:olive'>return</span><s=
+pan
+style=3D'color:#979797'> </span><span style=3D'color:purple'>QVariant</span=
+>::<span
+style=3D'color:#00677C'>fromValue</span>(*<span style=3D'color:olive'>this<=
+/span>);<span
+style=3D'color:#979797'> </span>}</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>};</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>Q_DECLARE_METATYPE</span>(AA)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>GENERATE_FIELD_CLASS</span>(LLLL)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>GENERATE_FIELD_CLASS_WITH_INTEGER_TYPE</span>(LLLL,<sp=
+an
+style=3D'color:olive'>int</span>)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>GENERATE_FIELD_CLASS</span>(QVariantTest)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>GENERATE_FIELD_CLASS_WITH_QVARIANT_TYPE</span>(QVarian=
+tTest)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:olive' lang=3Dzh-CN>void</span><span style=3D'color:#979797'
+lang=3Dzh-CN> </span><span style=3D'color:#00677C' lang=3Den-US>ListT</span=
+><span
+style=3D'color:#00677C' lang=3Dzh-CN>est</span><span lang=3Dzh-CN>()</span>=
+</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>{</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>///</span><span style=3D'color:#979797'> </span><span
+style=3D'color:navy'>QVariant</span><span style=3D'color:#979797'> </span><=
+span
+style=3D'color:navy'>set/get</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:navy'>custom</span><span style=3D'color:#979797'> </span><sp=
+an
+style=3D'color:navy'>struct</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>QVariantList</span><span style=3D'color:#979797'> </=
+span><span
+style=3D'color:#092E64'>variantlist</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>variantlist</span>.<span style=3D'color:#00677C'>ap=
+pend</span>(<span
+style=3D'color:purple'>QVariant</span>(<span style=3D'color:green'>&quot;na=
+me&quot;</span>));</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>()<span style=3D'color:#979797'> </span>&=
+lt;&lt;<span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>variantlist</=
+span>.<span
+style=3D'color:#00677C'>first</span>().<span style=3D'color:#00677C'>typeNa=
+me</span>();</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>struct</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:purple'>AA</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#092E64'>aa</span><span style=3D'color:#979797'> </span>=3D<=
+span
+style=3D'color:#979797'> </span>{<span style=3D'color:navy'>10</span>,<span
+style=3D'color:navy'>12.34f</span>};</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>QVariant</span><span style=3D'color:#979797'> </span=
+><span
+style=3D'color:#092E64'>var</span><span style=3D'color:#979797'> </span>;</=
+p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>var</span>.<span style=3D'color:#00677C'>setValue</=
+span>(<span
+style=3D'color:#092E64'>aa</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>variantlist</span>.<span style=3D'color:#00677C'>ap=
+pend</span>(<span
+style=3D'color:#092E64'>var</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>QVariant</span><span style=3D'color:#979797'> </span=
+><span
+style=3D'color:#092E64'>val</span><span style=3D'color:#979797'> </span>=3D=
+<span
+style=3D'color:#979797'> </span><span style=3D'color:purple'>QVariant</span=
+>::<span
+style=3D'color:#00677C'>fromValue</span>(<span style=3D'color:#092E64'>vari=
+antlist</span>.<span
+style=3D'color:#00677C'>at</span>(<span style=3D'color:navy'>1</span>));</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>if</span>(<span style=3D'color:#092E64'>val</span>.<s=
+pan
+style=3D'color:#00677C'>canConvert</span>&lt;<span style=3D'color:purple'>A=
+A</span>&gt;()){</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>        </s=
+pan></span><span
+style=3D'color:olive'>struct</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:purple'>AA</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#092E64'>raa</span><span style=3D'color:#979797'> </span>=3D=
+<span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>val</span>.<s=
+pan
+style=3D'color:#00677C'>value</span>&lt;<span style=3D'color:purple'>AA</sp=
+an>&gt;();</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>        </s=
+pan></span><span
+style=3D'color:navy'>qDebug</span>()<span style=3D'color:#979797'> </span>&=
+lt;&lt;<span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>raa</span>.<s=
+pan
+style=3D'color:maroon'>i</span><span style=3D'color:#979797'> </span>&lt;&l=
+t;<span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>raa</span>.<s=
+pan
+style=3D'color:maroon'>f</span><span style=3D'color:#979797'> </span>&lt;&l=
+t;<span
+style=3D'color:#979797'> </span><span style=3D'color:purple'>Qt</span>::end=
+l;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an>}</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>}</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:olive'>void</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#00677C'>FieldTest</span>()</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>{</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an>LLLLField&lt;<span
+style=3D'color:olive'>int</span>&gt;<span style=3D'color:#979797'> </span><=
+span
+style=3D'color:#092E64'>iLLLLField</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>iLLLLField</span>.AppendValue(<span style=3D'color:=
+navy'>100</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>iLLLLField</span>.AppendValue(<span style=3D'color:=
+navy'>200</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>iLLLLField</span>.AppendValue(<span style=3D'color:=
+navy'>300</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>().<span style=3D'color:#00677C'>noquote<=
+/span>()<span
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>iLLLLField</span>.toString();</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an>QVariantTestField&lt;<span
+style=3D'color:purple'>QVariant</span>&gt;<span style=3D'color:#979797'> </=
+span><span
+style=3D'color:#092E64'>variantTestField</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>variantTestField</span>.AppendValue(<span
+style=3D'color:purple'>QVariant</span>(<span style=3D'color:navy'>10</span>=
+));</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>variantTestField</span>.AppendValue(<span
+style=3D'color:purple'>QVariant</span>(<span style=3D'color:navy'>13.56</sp=
+an>));</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>variantTestField</span>.AppendValue(<span
+style=3D'color:purple'>QVariant</span>(<span style=3D'color:green'>&quot;he=
+llo</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>world&quot;</sp=
+an>));</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>().<span style=3D'color:#00677C'>noquote<=
+/span>()<span
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>variantTestField</span>.toString();</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>}</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:olive'>void</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#00677C'>LotRecordTest</span>()</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>{</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>LotRecord</span><span style=3D'color:#979797'> </spa=
+n><span
+style=3D'color:#092E64'>lrec</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>lrec</span>.<span style=3D'color:maroon'>m_DeviceID=
+</span>.<span
+style=3D'color:#00677C'>AppendValue</span>(<span style=3D'color:green'>&quo=
+t;aDevice&quot;</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>lrec</span>.<span style=3D'color:maroon'>m_DiePitch=
+</span>.<span
+style=3D'color:#00677C'>SetValue</span>(<span style=3D'color:purple'>QList<=
+/span>&lt;<span
+style=3D'color:olive'>long</span>&gt;()<span style=3D'color:#979797'> </spa=
+n>&lt;&lt;<span
+style=3D'color:#979797'> </span><span style=3D'color:navy'>7270960</span><s=
+pan
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:navy'>6559460</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>().<span style=3D'color:#00677C'>noquote<=
+/span>()<span
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>lrec</span>.<span style=3D'color:maroon'>m_DeviceID=
+</span>.<span
+style=3D'font-style:italic;color:#00677C'>toString</span>();</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>().<span style=3D'color:#00677C'>noquote<=
+/span>()<span
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>lrec</span>.<span style=3D'color:maroon'>m_DiePitch=
+</span>.<span
+style=3D'font-style:italic;color:#00677C'>toString</span>();</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>}</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:olive'>bool</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#00677C'>testReadHtmlKlarfFile</span>(<span style=3D'color:o=
+live'>const</span><span
+style=3D'color:#979797'> </span><span style=3D'color:purple'>JcKlarfUtilLib=
+rary</span>&amp;<span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>o</span>)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>{</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>QStringList</span><span style=3D'color:#979797'> </s=
+pan><span
+style=3D'color:#092E64'>bytes</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>QString</span><span style=3D'color:#979797'> </span>=
+<span
+style=3D'color:#092E64'>file</span><span style=3D'color:#979797'> </span>=
+=3D<span
+style=3D'color:#979797'> </span><span style=3D'color:navy'>qApp</span>-&gt;=
+<span
+style=3D'color:#00677C'>applicationDirPath</span>()<span style=3D'color:#97=
+9797'> </span>+<span
+style=3D'color:#979797'> </span><span style=3D'color:green'>&quot;/klarfWit=
+hImagelist.klarf&quot;</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>bool</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#092E64'>ok</span><span style=3D'color:#979797'> </span>=3D<=
+span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>o</span>.<span
+style=3D'color:#00677C'>ReadHtmlFile</span>(<span style=3D'color:#092E64'>f=
+ile</span>,<span
+style=3D'color:#092E64'>bytes</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>FileRecord</span><span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>record</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:green'>//</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>parase</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:green'>bytes</span><span style=3D'color:#979797'> </span><sp=
+an
+style=3D'color:green'>to</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>FileRecord</span><span style=3D'color:#979797'><span
+style=3D'mso-spacerun:yes'>  </span></span><span style=3D'color:green'>obj=
+ect.</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>o</span>.<span style=3D'color:#00677C'>ToRecordObje=
+ct</span>(<span
+style=3D'color:#092E64'>bytes</span>,<span style=3D'color:#092E64'>record</=
+span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>().<span style=3D'color:#00677C'>noquote<=
+/span>()<span
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>record</span>.<span style=3D'font-style:italic;colo=
+r:#00677C'>toString</span>();</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:green'>//</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>test</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>to</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>save</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>parase</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:green'>result</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:green'>to</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>file</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>ok</span><span style=3D'color:#979797'> </span>=3D<=
+span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>o</span>.<span
+style=3D'color:#00677C'>Write2File</span>(<span style=3D'color:#092E64'>rec=
+ord</span>,<span
+style=3D'color:navy'>qApp</span>-&gt;<span style=3D'color:#00677C'>applicat=
+ionDirPath</span>()<span
+style=3D'color:#979797'> </span>+<span style=3D'color:#979797'> </span><span
+style=3D'color:green'>&quot;/klarf_save_test.klarf&quot;</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>()<span style=3D'color:#979797'> </span>&=
+lt;&lt;<span
+style=3D'color:#979797'> </span><span style=3D'color:green'>&quot;save</spa=
+n><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>to</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>klarf</span><sp=
+an
+style=3D'color:#979797'> </span><span style=3D'color:green'>file</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>ret</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>:</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>&quot;</span><s=
+pan
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>ok</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>return</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:#092E64'>ok</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>}</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:olive'>bool</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#00677C'>testReadPureTextKlarfFile</span>(<span style=3D'col=
+or:olive'>const</span><span
+style=3D'color:#979797'> </span><span style=3D'color:purple'>JcKlarfUtilLib=
+rary</span>&amp;<span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>o</span>)</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>{</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>QStringList</span><span style=3D'color:#979797'> </s=
+pan><span
+style=3D'color:#092E64'>bytes</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>QString</span><span style=3D'color:#979797'> </span>=
+<span
+style=3D'color:#092E64'>file</span><span style=3D'color:#979797'> </span>=
+=3D<span
+style=3D'color:#979797'> </span><span style=3D'color:navy'>qApp</span>-&gt;=
+<span
+style=3D'color:#00677C'>applicationDirPath</span>()<span style=3D'color:#97=
+9797'> </span>+<span
+style=3D'color:#979797'> </span><span style=3D'color:green'>&quot;/klarf_sa=
+ve_test.klarf&quot;</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>bool</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#092E64'>ok</span><span style=3D'color:#979797'> </span>=3D<=
+span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>o</span>.<span
+style=3D'color:#00677C'>ReadPureTextFile</span>(<span style=3D'color:#092E6=
+4'>file</span>,<span
+style=3D'color:#092E64'>bytes</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>FileRecord</span><span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>record</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:green'>//</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>create</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:green'>temp</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>klarf</span><span style=3D'color:#979797'> </span><sp=
+an
+style=3D'color:green'>template</span><span style=3D'color:#979797'> </span>=
+<span
+style=3D'color:green'>string.</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>().<span style=3D'color:#00677C'>noquote<=
+/span>()<span
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>record</span>.<span style=3D'font-style:italic;colo=
+r:#00677C'>toString</span>();</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:green'>//</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>parase</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:green'>bytes</span><span style=3D'color:#979797'> </span><sp=
+an
+style=3D'color:green'>to</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>FileRecord</span><span style=3D'color:#979797'><span
+style=3D'mso-spacerun:yes'>  </span></span><span style=3D'color:green'>obj=
+ect.</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>o</span>.<span style=3D'color:#00677C'>ToRecordObje=
+ct</span>(<span
+style=3D'color:#092E64'>bytes</span>,<span style=3D'color:#092E64'>record</=
+span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>().<span style=3D'color:#00677C'>noquote<=
+/span>()<span
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>record</span>.<span style=3D'font-style:italic;colo=
+r:#00677C'>toString</span>()<span
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:purple'>Qt</span>::endl;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:green'>//</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>test</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>to</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>save</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>parase</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:green'>result</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:green'>to</span><span style=3D'color:#979797'> </span><span
+style=3D'color:green'>file</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#092E64'>ok</span><span style=3D'color:#979797'> </span>=3D<=
+span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>o</span>.<span
+style=3D'color:#00677C'>Write2File</span>(<span style=3D'color:#092E64'>rec=
+ord</span>,<span
+style=3D'color:navy'>qApp</span>-&gt;<span style=3D'color:#00677C'>applicat=
+ionDirPath</span>()<span
+style=3D'color:#979797'> </span>+<span style=3D'color:#979797'> </span><span
+style=3D'color:green'>&quot;/pure_klarf_save_test.klarf&quot;</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:navy'>qDebug</span>()<span style=3D'color:#979797'> </span>&=
+lt;&lt;<span
+style=3D'color:#979797'> </span><span style=3D'color:green'>&quot;save</spa=
+n><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>to</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>klarf</span><sp=
+an
+style=3D'color:#979797'> </span><span style=3D'color:green'>file</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>ret</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>:</span><span
+style=3D'color:#979797'> </span><span style=3D'color:green'>&quot;</span><s=
+pan
+style=3D'color:#979797'> </span>&lt;&lt;<span style=3D'color:#979797'> </sp=
+an><span
+style=3D'color:#092E64'>ok</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>return</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:#092E64'>ok</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>}</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:olive'>int</span><span style=3D'color:#979797'> </span><span
+style=3D'color:#00677C'>main</span>(<span style=3D'color:olive'>int</span><=
+span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>argc</span>,<=
+span
+style=3D'color:#979797'> </span><span style=3D'color:olive'>char</span><span
+style=3D'color:#979797'> </span>*<span style=3D'color:#092E64'>argv</span>[=
+])</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>{</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>QCoreApplication</span><span style=3D'color:#979797'=
+> </span><span
+style=3D'color:#092E64'>a</span>(<span style=3D'color:#092E64'>argc</span>,=
+<span
+style=3D'color:#979797'> </span><span style=3D'color:#092E64'>argv</span>);=
+</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:purple'>JcKlarfUtilLibrary</span><span style=3D'color:#97979=
+7'> </span><span
+style=3D'color:#092E64'>o</span>;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:navy'>#if</span><span style=3D'color:#979797'> </span><span
+style=3D'color:navy'>1</span></p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:#00677C'>testReadHtmlKlarfFile</span>(<span style=3D'color:#=
+092E64'>o</span>);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt;
+color:navy'>#else</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an>testReadPureTextKlarfFile(o);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt;
+color:navy'>#endif</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'><span
+style=3D'color:#979797'><span style=3D'mso-spacerun:yes'>    </span></sp=
+an><span
+style=3D'color:olive'>return</span><span style=3D'color:#979797'> </span><s=
+pan
+style=3D'color:#092E64'>a</span>.<span style=3D'color:#00677C'>exec</span>(=
+);</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>}</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:10.5=
+pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;margin-left:.375in;font-family:SimSun;font-size:12.0=
+pt'>&nbsp;</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'text-align:left;margin:0in;font-family:宋体;font-size:9pt;col=
+or:#969696;
+direction:ltr'>已使用 Microsoft OneNote 2013 创建。</p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01DA4477.203DF7E0
+Content-Location: file:///C:/D81F5143/file1075.files/image001.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+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
+
+------=_NextPart_01DA4477.203DF7E0
+Content-Location: file:///C:/D81F5143/file1075.files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../file1075.htm"/>
+ <o:File HRef=3D"image001.png"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01DA4477.203DF7E0--
